@@ -12,5 +12,32 @@ Charla | [La Colmena Centro de Tecnologías Creativas TXL](https://www.centrocul
 >Texto. Ana Celia Osorno.
 
 
+### Software libre y feminismo
+
+- [Origen y contexto](https://www.gnu.org/)
+	- ¿Por qué?¿Para qué?
+- [Mujeres en Red por el software libre... y no sexista ](https://www.mujeresenred.net/software_libre/indexsl.html)
+- [Licencias Feministas](https://labekka.red/licencia-f2f/)
+- [Live coding](https://github.com/toplap/awesome-livecoding#code-of-conduct)
+
+![fem3](https://github.com/MarianneTeixido/software-libre-feminista/tree/main/img/escritorio.jpg)  
+
+
+### Ciberfeminismo y redes
+
+- [Index](https://cyberfeminismindex.com/)
+- [Más data](https://monoskop.org/Cyberfeminism) 
+- [Cyborgrrrls](https://cyborgrrrls.wordpress.com/)
+
+### Más info
+
+- [Insubordinadas](https://insubordinadas.com/la-chinampa/)
+- [Notas de Ausencia](https://notasdeausencia.cc/memorial/)
+- [Subversión (ciber) feminista. Utopías tecnológicas, palabra – música – código.](https://www.tierraadentro.cultura.gob.mx/subversion-ciber-feminista-utopias-tecnologicas-palabra-musica-codigo/)
+
+![fem2](https://github.com/MarianneTeixido/software-libre-feminista/tree/main/img/libertad.jpg)  
+
+
+
 
 
