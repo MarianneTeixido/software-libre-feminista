@@ -24,7 +24,7 @@ Texto. Ana Celia Osorno.
 
 ![n](https://github.com/MarianneTeixido/software-libre-feminista/blob/main/img/escritorio.jpg)
 
-![n](https://github.com/MarianneTeixido/software-libre-feminista/blob/main/img/libertad.jpg)
+
 
 
 ### Ciberfeminismo y redes
@@ -41,7 +41,7 @@ Texto. Ana Celia Osorno.
 
 
 
-![n2](https://github.com/MarianneTeixido/notasdeausencia/blob/master/img/libertad.jpg)
+![n](https://github.com/MarianneTeixido/software-libre-feminista/blob/main/img/libertad.jpg)
 
 
 
