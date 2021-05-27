@@ -16,7 +16,6 @@ Texto. Ana Celia Osorno.
 ### Software libre y feminismo
 
 - [Origen y contexto](https://www.gnu.org/)
-	- ¿Por qué?¿Para qué?
 - [Mujeres en Red por el software libre... y no sexista ](https://www.mujeresenred.net/software_libre/indexsl.html)
 - [Licencias Feministas](https://labekka.red/licencia-f2f/)
 - [Live coding](https://github.com/toplap/awesome-livecoding#code-of-conduct)
