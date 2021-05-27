@@ -21,8 +21,8 @@ Texto. Ana Celia Osorno.
 - [Licencias Feministas](https://labekka.red/licencia-f2f/)
 - [Live coding](https://github.com/toplap/awesome-livecoding#code-of-conduct)
 
-![fem3](https://github.com/MarianneTeixido/software-libre-feminista/tree/main/img/escritorio.jpg)  
 
+![n](https://github.com/MarianneTeixido/notasdeausencia/blob/master/img/escritorio.jpg)
 
 ### Ciberfeminismo y redes
 
@@ -36,7 +36,10 @@ Texto. Ana Celia Osorno.
 - [Notas de Ausencia](https://notasdeausencia.cc/memorial/)
 - [Subversión (ciber) feminista. Utopías tecnológicas, palabra – música – código.](https://www.tierraadentro.cultura.gob.mx/subversion-ciber-feminista-utopias-tecnologicas-palabra-musica-codigo/)
 
-![fem2](https://github.com/MarianneTeixido/software-libre-feminista/tree/main/img/libertad.jpg)  
+
+
+![n2](https://github.com/MarianneTeixido/notasdeausencia/blob/master/img/libertad.jpg)
+
 
 
 
