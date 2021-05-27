@@ -22,7 +22,10 @@ Texto. Ana Celia Osorno.
 - [Live coding](https://github.com/toplap/awesome-livecoding#code-of-conduct)
 
 
-![n](https://github.com/MarianneTeixido/notasdeausencia/blob/master/img/escritorio.jpg)
+![n](https://github.com/MarianneTeixido/software-libre-feminista/blob/main/img/escritorio.jpg)
+
+![n](https://github.com/MarianneTeixido/software-libre-feminista/blob/main/img/libertad.jpg)
+
 
 ### Ciberfeminismo y redes
 
