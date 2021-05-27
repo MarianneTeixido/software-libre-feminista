@@ -30,12 +30,12 @@ Texto. Ana Celia Osorno.
 ### Ciberfeminismo y redes
 
 - [Index](https://cyberfeminismindex.com/)
-- [Más data](https://monoskop.org/Cyberfeminism) 
 - [Cyborgrrrls](https://cyborgrrrls.wordpress.com/)
-
-### Más info
-
 - [Insubordinadas](https://insubordinadas.com/la-chinampa/)
+- [Más data](https://monoskop.org/Cyberfeminism) 
+
+### Obra relacionada
+
 - [Notas de Ausencia](https://notasdeausencia.cc/memorial/)
 - [Subversión (ciber) feminista. Utopías tecnológicas, palabra – música – código.](https://www.tierraadentro.cultura.gob.mx/subversion-ciber-feminista-utopias-tecnologicas-palabra-musica-codigo/)
 
